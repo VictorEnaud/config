@@ -1,0 +1,9 @@
+atom
+git
+google-chrome
+intellij-idea-ultimate-edition
+maven
+slack
+spotify
+python-virtualenv
+npm
