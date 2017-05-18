@@ -3,7 +3,7 @@ git
 google-chrome
 intellij-idea-ultimate-edition
 maven
-slack
+slack-desktop
 spotify
 python-virtualenv
 npm
