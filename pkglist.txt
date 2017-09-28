@@ -1,4 +1,5 @@
 atom
+autojump
 git
 google-chrome
 intellij-idea-ultimate-edition
