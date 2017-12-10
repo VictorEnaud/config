@@ -1,3 +1,7 @@
+# Dependency management #
+#########################
+.gradle
+
 # Compiled source #
 ###################
 *.com
