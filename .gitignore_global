@@ -45,6 +45,7 @@ Thumbs.db
 .idea
 *.sublime-project
 *.sublime-workspace
+.tern-project
 
 ### IntelliJ IDEA ###
 .idea
