@@ -48,7 +48,12 @@ Thumbs.db
 .tern-project
 
 ### IntelliJ IDEA ###
+####################
 .idea
 *.iws
 *.iml
 *.ipr
+
+### NodeJS ###
+##############
+node_modules
