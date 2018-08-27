@@ -46,6 +46,7 @@ Thumbs.db
 *.sublime-project
 *.sublime-workspace
 .tern-project
+jsconfig.json
 
 ### IntelliJ IDEA ###
 ####################
