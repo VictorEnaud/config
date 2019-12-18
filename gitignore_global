@@ -48,6 +48,7 @@ Thumbs.db
 .tern-project
 jsconfig.json
 out/
+generated/
 
 ### IntelliJ IDEA ###
 ####################
@@ -66,3 +67,7 @@ node_modules
 __pycache__
 ## virtualenv
 local-env/
+
+### Java ###
+############
+build/
