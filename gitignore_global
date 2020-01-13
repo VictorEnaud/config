@@ -65,6 +65,8 @@ node_modules
 ##############
 .pytest_cache
 __pycache__
+.virtualenv
+
 ## virtualenv
 local-env/
 
