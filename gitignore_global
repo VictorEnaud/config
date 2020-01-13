@@ -63,7 +63,6 @@ node_modules
 
 ### Python ###
 ##############
-.pytest_cache
 __pycache__
 
 ## virtualenv
